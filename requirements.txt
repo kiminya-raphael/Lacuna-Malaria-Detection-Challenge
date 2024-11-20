@@ -1,0 +1,14 @@
+mmengine==0.10.4
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+--find-links https://download.openmmlab.com/mmcv/dist/cu118/torch2.0/index.html
+mmcv==2.0.1
+openmim==0.3.9
+future
+tensorboard
+scikit-learn
+pandas
+opencv-python
+gdown==5.2.0
